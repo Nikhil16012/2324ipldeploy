@@ -55,46 +55,15 @@ var server=http.createServer((req,res)=>{
             res.end()
          }
         else{
-            res.write("data not found")
+            res.write(JSON.stringify(dataa))
             res.end()
         }
     })
 })
-    fs.readFile("./ipl.json","utf-8",(err,data)=>{
-        if(err){
-            throw err
-        }
-       else if(parsedurl.pathname.startsWith("/year/")){
-        var dataa=JSON.parse(data)
-            var splitedval=parsedurl.pathname.split("/");
-            var routeval=splitedval[splitedval.length-1];
-            var returnedval=dataa.ipl.filter((val)=>{
-             return val.year==routeval;
-            })
-            res.write(JSON.stringify(returnedval))
-            res.end()
-         }
-         else{
-            res.write(JSON.stringify(dataa))
-            res.end()
-         }
-      })
-      
-    // })
-    //     if(parsedurl.pathname.startsWith("/year/")){
-    //        var splitedval=parsedurl.pathname.split("/");
-    //        var routeval=splitedval[splitedval.length-1];
-    //        var returnedval=dataa.ipl.filter((val)=>{
-    //         return val.year==routeval;
-    //        })
-    //        res.write(returnedval)
-    //        res.end()
-    //     }
-    //  })
+    
 
 
 server.listen(3007,()=>{
     console.log("server is running");
 })
-
 
