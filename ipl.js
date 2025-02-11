@@ -6,13 +6,14 @@ var server=http.createServer((req,res)=>{
        var parsedurl=url.parse(urldata,true)
 
      fs.readFile("./ipl.json","utf-8",(err,data)=>{
+                      var dataa=JSON.parse(data)
         if(err){
             res.write(err)
             res.end()
         }
         else if(parsedurl.pathname=="/" && req.method=="GET"){
             if(parsedurl.query.team=="csk"){
-                 var dataa=JSON.parse(data)
+        
                  var filtered=dataa.ipl.filter((val)=>{
                     return val.team=="Chennai Super Kings"
                  })
