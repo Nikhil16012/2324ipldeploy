@@ -80,7 +80,7 @@ var server=http.createServer((req,res)=>{
          }
       })
       
-    })
+    // })
     //     if(parsedurl.pathname.startsWith("/year/")){
     //        var splitedval=parsedurl.pathname.split("/");
     //        var routeval=splitedval[splitedval.length-1];
