@@ -1,0 +1,197 @@
+{
+    "ipl_winners": [
+      {
+        "year": 2008,
+        "team": "Rajasthan Royals",
+        "captain": "Shane Warne",
+        "coach": "Shane Warne",
+        "runner_up": "Chennai Super Kings",
+        "venue": "DY Patil Stadium, Mumbai",
+        "man_of_the_match_final": "Yusuf Pathan",
+        "orange_cap": "Shaun Marsh",
+        "purple_cap": "Sohail Tanvir",
+        "most_valuable_player": "Shane Watson"
+      },
+      {
+        "year": 2009,
+        "team": "Deccan Chargers",
+        "captain": "Adam Gilchrist",
+        "coach": "Darren Lehmann",
+        "runner_up": "Royal Challengers Bangalore",
+        "venue": "Wanderers Stadium, Johannesburg",
+        "man_of_the_match_final": "Anil Kumble",
+        "orange_cap": "Matthew Hayden",
+        "purple_cap": "RP Singh",
+        "most_valuable_player": "Adam Gilchrist"
+      },
+      {
+        "year": 2010,
+        "team": "Chennai Super Kings",
+        "captain": "MS Dhoni",
+        "coach": "Stephen Fleming",
+        "runner_up": "Mumbai Indians",
+        "venue": "DY Patil Stadium, Mumbai",
+        "man_of_the_match_final": "Suresh Raina",
+        "orange_cap": "Sachin Tendulkar",
+        "purple_cap": "Pragyan Ojha",
+        "most_valuable_player": "Sachin Tendulkar"
+      },
+      {
+        "year": 2011,
+        "team": "Chennai Super Kings",
+        "captain": "MS Dhoni",
+        "coach": "Stephen Fleming",
+        "runner_up": "Royal Challengers Bangalore",
+        "venue": "MA Chidambaram Stadium, Chennai",
+        "man_of_the_match_final": "Murali Vijay",
+        "orange_cap": "Chris Gayle",
+        "purple_cap": "Lasith Malinga",
+        "most_valuable_player": "Chris Gayle"
+      },
+      {
+        "year": 2012,
+        "team": "Kolkata Knight Riders",
+        "captain": "Gautam Gambhir",
+        "coach": "Trevor Bayliss",
+        "runner_up": "Chennai Super Kings",
+        "venue": "MA Chidambaram Stadium, Chennai",
+        "man_of_the_match_final": "Manvinder Bisla",
+        "orange_cap": "Chris Gayle",
+        "purple_cap": "Morne Morkel",
+        "most_valuable_player": "Sunil Narine"
+      },
+      {
+        "year": 2013,
+        "team": "Mumbai Indians",
+        "captain": "Rohit Sharma",
+        "coach": "John Wright",
+        "runner_up": "Chennai Super Kings",
+        "venue": "Eden Gardens, Kolkata",
+        "man_of_the_match_final": "Kieron Pollard",
+        "orange_cap": "Michael Hussey",
+        "purple_cap": "Dwayne Bravo",
+        "most_valuable_player": "Shane Watson"
+      },
+      {
+        "year": 2014,
+        "team": "Kolkata Knight Riders",
+        "captain": "Gautam Gambhir",
+        "coach": "Trevor Bayliss",
+        "runner_up": "Kings XI Punjab",
+        "venue": "M Chinnaswamy Stadium, Bangalore",
+        "man_of_the_match_final": "Manish Pandey",
+        "orange_cap": "Robin Uthappa",
+        "purple_cap": "Mohit Sharma",
+        "most_valuable_player": "Glenn Maxwell"
+      },
+      {
+        "year": 2015,
+        "team": "Mumbai Indians",
+        "captain": "Rohit Sharma",
+        "coach": "Ricky Ponting",
+        "runner_up": "Chennai Super Kings",
+        "venue": "Eden Gardens, Kolkata",
+        "man_of_the_match_final": "Rohit Sharma",
+        "orange_cap": "David Warner",
+        "purple_cap": "Dwayne Bravo",
+        "most_valuable_player": "Andre Russell"
+      },
+      {
+        "year": 2016,
+        "team": "Sunrisers Hyderabad",
+        "captain": "David Warner",
+        "coach": "Tom Moody",
+        "runner_up": "Royal Challengers Bangalore",
+        "venue": "M Chinnaswamy Stadium, Bangalore",
+        "man_of_the_match_final": "Ben Cutting",
+        "orange_cap": "Virat Kohli",
+        "purple_cap": "Bhuvneshwar Kumar",
+        "most_valuable_player": "Virat Kohli"
+      },
+      {
+        "year": 2017,
+        "team": "Mumbai Indians",
+        "captain": "Rohit Sharma",
+        "coach": "Mahela Jayawardene",
+        "runner_up": "Rising Pune Supergiant",
+        "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+        "man_of_the_match_final": "Krunal Pandya",
+        "orange_cap": "David Warner",
+        "purple_cap": "Bhuvneshwar Kumar",
+        "most_valuable_player": "Ben Stokes"
+      },
+      {
+        "year": 2018,
+        "team": "Chennai Super Kings",
+        "captain": "MS Dhoni",
+        "coach": "Stephen Fleming",
+        "runner_up": "Sunrisers Hyderabad",
+        "venue": "Wankhede Stadium, Mumbai",
+        "man_of_the_match_final": "Shane Watson",
+        "orange_cap": "Kane Williamson",
+        "purple_cap": "Andrew Tye",
+        "most_valuable_player": "Sunil Narine"
+      },
+      {
+        "year": 2019,
+        "team": "Mumbai Indians",
+        "captain": "Rohit Sharma",
+        "coach": "Mahela Jayawardene",
+        "runner_up": "Chennai Super Kings",
+        "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+        "man_of_the_match_final": "Jasprit Bumrah",
+        "orange_cap": "David Warner",
+        "purple_cap": "Imran Tahir",
+        "most_valuable_player": "Andre Russell"
+      },
+      {
+        "year": 2020,
+        "team": "Mumbai Indians",
+        "captain": "Rohit Sharma",
+        "coach": "Mahela Jayawardene",
+        "runner_up": "Delhi Capitals",
+        "venue": "Dubai International Cricket Stadium, UAE",
+        "man_of_the_match_final": "Trent Boult",
+        "orange_cap": "KL Rahul",
+        "purple_cap": "Kagiso Rabada",
+        "most_valuable_player": "Jofra Archer"
+      },
+      {
+        "year": 2021,
+        "team": "Chennai Super Kings",
+        "captain": "MS Dhoni",
+        "coach": "Stephen Fleming",
+        "runner_up": "Kolkata Knight Riders",
+        "venue": "Dubai International Cricket Stadium, UAE",
+        "man_of_the_match_final": "Faf du Plessis",
+        "orange_cap": "Ruturaj Gaikwad",
+        "purple_cap": "Harshal Patel",
+        "most_valuable_player": "Harshal Patel"
+      },
+      {
+        "year": 2022,
+        "team": "Gujarat Titans",
+        "captain": "Hardik Pandya",
+        "coach": "Ashish Nehra",
+        "runner_up": "Rajasthan Royals",
+        "venue": "Narendra Modi Stadium, Ahmedabad",
+        "man_of_the_match_final": "Hardik Pandya",
+        "orange_cap": "Jos Buttler",
+        "purple_cap": "Yuzvendra Chahal",
+        "most_valuable_player": "Jos Buttler"
+      },
+      {
+        "year": 2023,
+        "team": "Chennai Super Kings",
+        "captain": "MS Dhoni",
+        "coach": "Stephen Fleming",
+        "runner_up": "Gujarat Titans",
+        "venue": "Narendra Modi Stadium, Ahmedabad",
+        "man_of_the_match_final": "Devon Conway",
+        "orange_cap": "Shubman Gill",
+        "purple_cap": "Mohammed Shami",
+        "most_valuable_player": "Shubman Gill"
+      }
+    ]
+  }
+  
