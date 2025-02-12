@@ -17,7 +17,9 @@ var server=http.createServer((req,res)=>{
                  var filtered=dataa.ipl.filter((val)=>{
                     return val.team=="Chennai Super Kings"
                  })
-                 res.write(JSON.stringify(filtered));
+                 // res.write(JSON.stringify(filtered));
+                    res.write(JSON.stringify(filtered, null, 4));
+
                  res.end()
             }
          else if(parsedurl.query.team=="mi"){
@@ -25,7 +27,9 @@ var server=http.createServer((req,res)=>{
                 var filtered=dataa.ipl.filter((val)=>{
                    return val.team=="Mumbai Indians"
                 })
-                res.write(JSON.stringify(filtered));
+                //res.write(JSON.stringify(filtered));
+                 res.write(JSON.stringify(filtered, null, 4));
+
                 res.end()
            }
            else if(parsedurl.query.team=="kkr"){
@@ -33,7 +37,9 @@ var server=http.createServer((req,res)=>{
             var filtered=dataa.ipl.filter((val)=>{
                return val.team=="Kolkata Knight Riders"
             })
-            res.write(JSON.stringify(filtered));
+            // res.write(JSON.stringify(filtered));
+                   res.write(JSON.stringify(filtered, null, 4));
+
             res.end()
        }
        else if(parsedurl.query.team=="rr"){
@@ -41,7 +47,9 @@ var server=http.createServer((req,res)=>{
         var filtered=dataa.ipl.filter((val)=>{
            return val.team=="Rajasthan Royals"
         })
-        res.write(JSON.stringify(filtered));
+        // res.write(JSON.stringify(filtered));
+               res.write(JSON.stringify(filtered, null, 4));
+
         res.end()
    }
        }
@@ -52,11 +60,11 @@ var server=http.createServer((req,res)=>{
             var returnedval=dataa.ipl.filter((val)=>{
              return val.year==routeval;
             })
-            res.write(JSON.stringify(returnedval))
+            res.write(JSON.stringify(returnedval,null,4))
             res.end()
          }
         else{
-            res.write(JSON.stringify(dataa))
+            res.write(JSON.stringify(dataa,null,4))
             res.end()
         }
     })
